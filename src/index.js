@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './post.js'
+import './feeds.js'
 import App8 from './App8';
 import reportWebVitals from './reportWebVitals';
 

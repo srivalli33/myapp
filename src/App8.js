@@ -1,6 +1,6 @@
 import React from "react";
-import Feeds from "./Feeds";
-import Post from "./Post";
+import Feeds from "./feeds";
+import Post from "./post";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 export default function App15() {
   return (
