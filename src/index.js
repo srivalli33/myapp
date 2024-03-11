@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import './post.js'
 import './feeds.js'
-import App8 from './App8';
+import feeds from './feeds';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App8 />
+    <feeds />
   </React.StrictMode>
 );
 
