@@ -20,11 +20,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App13a from "./App13a";
+import App24 from "./App24";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-    <App13a />
+    <App24 />
   </>
 );
